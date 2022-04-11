@@ -8,17 +8,17 @@ Hola ✌️ soy el explorer Jhosian y este es mi blog personal donde compartiré
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 
-### Mis expectativas para este proyecto son:
+## Mis expectativas para este proyecto son:
 
-  1. Aprender a desarrollar apps con Node como Backend.
+  1.  Aprender a desarrollar apps con Node como Backend.
    
-  2. Crear software de calidad.
+  2.  Crear software de calidad.
   
-  3. Poder crecer como desarrollador Backend.
+  3.  Poder crecer como desarrollador Backend.
   
-  5. Crear apps divertidas.
+  5.  Crear apps divertidas.
   
-  6. Aprender un poco de testing.
+  6.  Aprender un poco de testing.
 
 
 🚀
