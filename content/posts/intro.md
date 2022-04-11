@@ -10,3 +10,5 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 - Honestidad 
 - Solidaridad 
 - Tolerancia 
+
+---
